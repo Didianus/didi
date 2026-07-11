@@ -81,6 +81,28 @@ const projects: Project[] = [
     demo: "https://kasdesalidi.vercel.app/",
     github: "https://kasdesalidi.vercel.app/",
   },
+  {
+    id: 6,
+    title: "Website fixtech",
+    shortDescription: "Website agensi kreatif dengan efek 3D",
+    fullDescription:
+      "Website ini dikembangkan dengan fokus pada desain yang responsif, pengalaman pengguna yang optimal, serta penyajian informasi yang jelas dan menarik. Dengan menggunakan teknologi web modern, situs ini bertujuan untuk memberikan pengalaman yang menyenangkan bagi pengunjung sekaligus menyampaikan pesan dan nilai-nilai yang ingin disampaikan oleh agensi kreatif tersebut. Fitur-fitur interaktif dan konten yang relevan dirancang untuk meningkatkan keterlibatan pengguna, sehingga menciptakan hubungan yang lebih kuat antara agensi dan audiensnya. Website ini juga dioptimalkan untuk performa yang cepat dan aksesibilitas yang baik, memastikan bahwa semua pengunjung dapat menikmati pengalaman yang lancar dan menyenangkan saat menjelajahi situs ini.",
+    image: "/web1.png",
+    tags: ["Full Stack"],
+    demo: "https://fixteks1.vercel.app/",
+    github: "https://fixteks1.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Website kasirku",
+    shortDescription: "Website agensi kreatif dengan efek 3D",
+    fullDescription:
+      "Website ini dikembangkan dengan fokus pada desain yang responsif, pengalaman pengguna yang optimal, serta penyajian informasi yang jelas dan menarik. Dengan menggunakan teknologi web modern, situs ini bertujuan untuk memberikan pengalaman yang menyenangkan bagi pengunjung sekaligus menyampaikan pesan dan nilai-nilai yang ingin disampaikan oleh agensi kreatif tersebut. Fitur-fitur interaktif dan konten yang relevan dirancang untuk meningkatkan keterlibatan pengguna, sehingga menciptakan hubungan yang lebih kuat antara agensi dan audiensnya. Website ini juga dioptimalkan untuk performa yang cepat dan aksesibilitas yang baik, memastikan bahwa semua pengunjung dapat menikmati pengalaman yang lancar dan menyenangkan saat menjelajahi situs ini.",
+    image: "/web2.png",
+    tags: ["Full Stack"],
+    demo: "https://kasirku-omega.vercel.app/",
+    github: "https://kasirku-omega.vercel.app/",
+  },
 ];
 
 const containerVariants = {
